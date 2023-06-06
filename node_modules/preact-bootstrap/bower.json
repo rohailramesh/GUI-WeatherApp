@@ -1,0 +1,26 @@
+{
+  "name": "preact-bootstrap",
+  "description": "Preact for bootstrap.",
+  "main": "dist/preact-bootstrap.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/preact-bootstrap",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "gulp",
+    "gulpfile.js"
+  ]
+}
